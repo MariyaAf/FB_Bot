@@ -1,0 +1,41 @@
+D:\Бот\FBot\FBot\bin\Bot Application.dll.config
+D:\Бот\FBot\FBot\bin\Bot Application.dll
+D:\Бот\FBot\FBot\bin\Bot Application.pdb
+D:\Бот\FBot\FBot\bin\Autofac.dll
+D:\Бот\FBot\FBot\bin\Chronic.dll
+D:\Бот\FBot\FBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Бот\FBot\FBot\bin\Microsoft.Bot.Builder.dll
+D:\Бот\FBot\FBot\bin\Microsoft.Bot.Connector.dll
+D:\Бот\FBot\FBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Бот\FBot\FBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Бот\FBot\FBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Бот\FBot\FBot\bin\Newtonsoft.Json.dll
+D:\Бот\FBot\FBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Бот\FBot\FBot\bin\System.Net.Http.Formatting.dll
+D:\Бот\FBot\FBot\bin\System.Web.Http.dll
+D:\Бот\FBot\FBot\bin\System.Web.Http.WebHost.dll
+D:\Бот\FBot\FBot\bin\Autofac.xml
+D:\Бот\FBot\FBot\bin\Microsoft.Bot.Builder.xml
+D:\Бот\FBot\FBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Бот\FBot\FBot\bin\Microsoft.Bot.Connector.xml
+D:\Бот\FBot\FBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Бот\FBot\FBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Бот\FBot\FBot\bin\Newtonsoft.Json.xml
+D:\Бот\FBot\FBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Бот\FBot\FBot\bin\System.Net.Http.Formatting.xml
+D:\Бот\FBot\FBot\bin\System.Web.Http.xml
+D:\Бот\FBot\FBot\bin\System.Web.Http.WebHost.xml
+D:\Бот\FBot\FBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Бот\FBot\FBot\obj\Release\FBot.csprojResolveAssemblyReference.cache
+D:\Бот\FBot\FBot\obj\Release\FBot.csproj.CoreCompileInputs.cache
+D:\Бот\FBot\FBot\obj\Release\Bot Application.dll
+D:\Бот\FBot\FBot\obj\Release\Bot Application.pdb
